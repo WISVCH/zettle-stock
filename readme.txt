@@ -28,9 +28,9 @@ Every time you use the shortcode, you must include a `uuid` attribute.
 
 Example:
 
-- `[zettle_name uuid=\"gy5d6ey2-1584-58es-2642-56dls72fpr3c\"]` -> `Socks`
-- `[zettle_price uuid=\"gy5d6ey2-1584-58es-2642-56dls72fpr3c\"]` -> `€8,00`
-- `[zettle_stock uuid=\"gy5d6ey2-1584-58es-2642-56dls72fpr3c\"]` -> `67`
+- `[zettle_name uuid="gy5d6ey2-1584-58es-2642-56dls72fpr3c"]` -> `Socks`
+- `[zettle_price uuid="gy5d6ey2-1584-58es-2642-56dls72fpr3c"]` -> `€8,00`
+- `[zettle_stock uuid="gy5d6ey2-1584-58es-2642-56dls72fpr3c"]` -> `67`
 
 
 
